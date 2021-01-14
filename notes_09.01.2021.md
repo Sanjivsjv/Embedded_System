@@ -15,6 +15,6 @@
 - SIM card
 
 
-
+hi 
 ## Difference between
 
